@@ -6,10 +6,7 @@ I finished writing the tests to ensure that the Feed Reader performs per the req
 
 ## Instructions
 
-You can go to the:
-[live version](https://apk29.github.io/feedReaderTesting/)
-
-Or download the files and open the index.html file in a browser. 
+Download the files and open the index.html file in a browser. 
 https://github.com/apk29/feedReaderTesting/
 
 1. Click on Clone or download
